@@ -1,0 +1,1836 @@
+意汉词典
+
+北京外国语学院
+《意汉词典》组编
+
+商务印书馆
+1997年・北京
+
+〈?〉
+
+DIZIONARIO ITALIANO-CINESE
+
+A cura della
+redazione per il dizionario
+italiano-cinese dell'Istituto
+delle lingue estere di Beijing
+
+CASA EDITRICE COMMERCIALE
+Beijing · 1997
+
+〈?〉
+
+《意汉词典》编辑人员
+
+编辑: 费慧茹 王焕宝 沈珩 柯宝太 沈萼梅
+汉语顾问: 李廷揆
+意大利语顾问: 马里奥·卡内拉(Mario Cannella)
+
+YÌ HÀN CÍDIĂN
+意汉词典
+北京外国语学院《意汉词典》组编
+商务印书馆出版
+(北京王府井大街36号 邮政编码 100710)
+新华书店总店北京发行所发行
+中国科学院印刷厂印装
+ISBN 7-100-00581-7/H. 209
+1985年8月第1版
+开本787×1092 1/16
+1997年9月北京第7次印刷
+字数3588千
+印数 6000册
+印张 60 1/4 插页 2
+全布面精装定价:62.00元
+
+〈?〉
+
+前言
+
+《意汉词典》是一部综合性中型语言词典,共收词五万余条。除一般词汇外,还收有社会科学及自然科学各学科常用词语,并尽量收集了新词和新义。各词条释义力求简练、确切与齐全。在部分词条中,收有一定数量的词组、成语、谚语及例证。正文后编有《意大利常用缩略语表》、《意大利语动词变位表》等五种附录。
+
+本组自1975年10月承担编写任务并开始工作,经过七年的不懈努力,于1982年7月全部脱稿。在编写过程中,我们得到许多同志的大力支持和热情帮助,特别应该提到的是北京对外贸易学院刘善枪、肖天佑等同志,他们参加了初期的编写工作;另外,国家体育运动委员会的钟涛同志也为我们整理过一些材料。我们在这里敬向他们表示衷心感谢。
+
+由于我们缺乏经验,水平有限,缺点和错误在所难免,欢迎读者批评指正。
+
+北京外国语学院《意汉词典》组
+
+1983年8月
+
+〈?〉
+
+体例说明
+
+(一)词条
+
+一个词条的主要部分是本词和释义,有的词条还收有例证、成语、短语、谚语、派生词等。
+
+(二)本词
+
+1. 本词用黑正体字母排印。专有名词第一个字母大写。
+2. 本词后注明词性。词性用缩略语注出(见语法略语),用白斜体字母排印。一个词如有若干词性,各词性前分别标以罗马数字I、II,并用黑正体字母排印。如:
+diritto I agg. ... II avv. ... III s.m. ...
+3. 外来词语本词用黑斜体字母排印,并在词性前用六角括号注明词源。如:
+leader [英]s.m. ...
+4. 拼法相同,词源及词义不同的词,分立词条,在右上角标以1、2等数码。如:
+bène¹ avv.
+bène² s.m.
+5. 形容词和副词的比较级和最高级有不规则变化时,分立词条。如:
+migliore agg. [compar. di buono]
+mèglio avv. [compar. di bene]
+6. 不规则动词的变化形式(附录中附有动词变位表),名词及形容词复数的不规则变化形式,均用方括号加以说明。各种变化形式一般注在词性后。如:
+dire v.tr. [pres. io dico, ...]
+bianco agg. [pl.m. -chi]
+7. 词条本身为名词复数,则用缩略语与词性一起加以说明。如:
+mammiferi s.m.pl.
+名词复数形式与单数形式相同,则在词性后用缩略语加以说明。如:
+spècie s.f. [invar.]
+8. 名词由阳性变阴性的不规则变化形式,在词性后用方括号加以注明。如:
+professóre s.m. [f. -éssa]
+如上述词条除名词外还有形容词词性,则阴性的不规则变化形式在本词后各词性前用方括号注明,兼管两种词性。如:
+traditóre [f. -trice] I s.m. ... II agg. ...
+9. 如本词系动词现在分词或过去分词形式,如只有一个词性则在词性后用缩略语加以说明。如:
+comandante s.m. [p.pr. di comandare]
+distòrto agg. [p.p. di distorcere]
+如本词有两个或两个以上词性,则在词性前注明。如:
+dirigente [p.pr. di dirigere] I agg. ... II s.m. 或s.f.
+passato [p.p. di passare] I agg. ... II s.m. ...
+10. 如本词系简写形式,则在词性前用缩略语加以说明。如
+chilo¹ [abbr. di chilogramma] s.m.
+
+(三)释义
+
+1. 一个词(包括派生词)或一个短语、成语、谚语有多条不同释义时,各条释义分别列出,前面标以1)、12等数码。大体相同的若干释义则列在同一条内,词义较接近的用逗号隔开,稍远的用分号隔开。
+2. 词义排列顺序一般为本义、转义和专科术语。
+3. 名词释义前所注的[复]表示对该词的数的要求。如:
+pantalóne s.m [复]
+4. 每个词义后不加标点;如有例证,词义后加冒号。
+5. 如需说明一个词的修辞色采或所属学科领域,应在释义前以鱼尾号注明。如:
+gentaglia s.f. 【贬】
+tubercolòsi s.f.【医】
+6.动、植物名称在释义后用圆括号白斜体注以拉了语学名。日常生活常见的或没有准确译名的除外。
+7. 释义后根据需要收入词组或句子作为例证,例证后附汉语译文。完整的句子开头的字母大写,句末和译文后均用句号。例证中的专有名词开头字母大写。两个例证之间用斜线号隔开。
+
+(四)成语、短语、谚语
+
+1. 成语、短语用黑斜体字母排印,在各词义后按首
+
+〈III〉
+
+字母次序(包括冠词、用代字号代表的词等)排列。谚语亦按上述要求排在成语、短语之后。在同一词条内,成语、短语、谚语按归属词、词性分别排列。
+2. 为了说明成语、短语的用法,除释义外,必要时附有例证,用白正体字母排印。
+3. 同一成语、短语、谚语可多处重复出现。
+
+(五)派生词
+
+1. 由形容词变来的副词作为派生词放在形容词词条最后,中间隔以平行号。
+2. 派生词用黑正体字母排印,其本词部分应全部拼出,并注以词性,但一般不注释义。如:
+notévole agg.... | notevolménte avv.
+
+(六)注音说明
+
+1. 本词(包括外来词)、派生词均不注音标。个别字母的发音及重音均直接注在本词和派生词上。
+2. 重音注法如下:
+①凡重音在最后一个音节的词拼写时均有重音符号,不再另注重音符号。如:
+città bontà gioventù così
+②凡重音在最后第二个音节,一般不注重音。
+③凡重音在其它音节,一般均应注明。如:
+tàvola anàlisi anatra
+④凡有重音的音节其元音是“e”、“o”,不论重音落在最后第二个音节,还是落在其它音节,不仅应注明重音而且也应注明闭口音和开口音。闭口音的符号为“””,开口音的符号为“、”。如:
+ascólto bazzòtto moviménto òstico
+intelligènte orgóglio cénere cèllula
+3. 辅音“s”、“z”发清音时,在本词中写成“s”、“z”,发浊音时则在本词中写成“$”“?”。
+
+(七)若干符号的用法
+
+1.平行号(||)用来表示词条内动词自反形式及派生词等部分的开始。
+2. 菱形号(◆)用来表示词条内成语、短语、谚语等部分的开始。
+3. 斜线号(/)用于分隔例证与例证、成语与成语、短语与短语、谚语与谚语。
+4. 代字号(~)在例证中用来代表词条的本词。
+5.圆括号(())用于:
+①注明一个词的不同拼法。如:
+comprare(或 comperare)
+②加注内容或意义等方面的补充性说明。如:
+(文章、讲话、乐曲等的)一段,一节公顷(十五市亩)
+③括去可以省略的部分。如:
+Sono (così) alto come te.
+④括去替换词的部分。如:
+cinquant'anni fa (or sono)
+⑤在某些及物动词或不及物动词的释义中注明主语或宾语。如:
+atterrare I v.tr. ... II v. intr.①(飞机等)着陆
+indire v. tr. 举行(选举);召集(会议)
+6.方括号([])用于:
+①注明词形变化。如:
+cuoco s.m. [f. -a; pl. -chi]
+②注明语法或使用等方面的补充说明。如:
+andare v. intr. ... [aus. essere]
+[M-]表示第一个字母要大写
+[m-]表示第一个字母要小写
+[复]说明释义对名词数的要求
+7.鱼尾号(【】)用于注明修辞色采和学科等。
+8. 六角括号(〔 〕)用于注明词源。
+
+〈IV〉
+
+略语表
+
+外来语语种略语
+
+[日]日语
+[汉]汉语
+[西]西班牙语
+[希]希腊语
+[瑞]瑞典语
+[荷]荷兰语
+[土]土耳其语
+[梵]梵语
+[英]英语
+[拉]拉丁语
+[法]法语
+[俄]俄语
+[德]德语
+[葡]葡萄牙语
+[匈]匈牙利语
+[保]保加利亚语
+[罗]罗马尼亚语
+[波]波兰语
+
+修辞用语略语
+
+[口]口语
+[方]方言
+[谑]戏谑语
+[讽]讽刺语
+[罕]罕用语
+[古]古语，古义
+[转]转义
+[贬]贬义
+[俗]俗语
+[谚]谚语
+
+专业学科略语
+[心]心理学
+[文]文学
+[史]历史
+[军]军事
+[诗]诗歌
+[体]体育
+[技]技术
+[戏]戏剧
+[经]经济
+[语]语言学
+[宗]宗教
+[神]神话
+[哲]哲学
+[科]科学
+[财]财政
+[逻]逻辑学
+[绘]绘画
+[雕]雕刻
+[律]法律
+[商]商业
+[工]工业
+[无]无线电
+[音]音乐
+[化]化学
+[气]气象学
+[天]天文学
+[电]电工，电学，电子，电讯
+[印]印刷
+[水]水利
+[动]动物，动物学
+[地]地质，地理
+[生]生物学
+[自]自动控制
+[农]农业
+[机]机械
+[摄]摄影
+[政]政治
+[考]考古
+[汽]汽车
+[医]医学
+[光]光学
+[纺]纺织
+[矿]矿业，矿物学
+[治]冶金
+[空]航空
+[建]建筑工程
+[油]石油工业，石油化学
+[数]数学（包括几何，代数）
+[铁]铁路
+[药]药物，药物学
+[海]航海，海军
+[兽]兽医
+[原]原子能
+[植]植物，植物学
+[微]微生物
+[船]造船
+[烹]烹调，烹调法
+[生化]生物化学
+[解]解剖学
+
+说明：未经缩略或意义自明的，如(语法)、(电影)、(电视)等，不作略语处理。
+
+〈?〉
+
+语法略语
+
+abbr. abbreviazione, abbreviato (缩写)
+agg. aggettivo (形容词)
+agg. num. card. aggettivo numerale cardinale (基数形容词)
+agg. num. ord. aggettivo numerale ordinale (序数形容词)
+art. articolo (冠词)
+art. determ. articolo determinativo (定冠词)
+art. indeterm. articolo indeterminativo (不定冠词)
+assol. assoluto, assolutamente (独立的,独立使用)
+aus. ausiliare (助动词)
+avv. avverbio (副词)
+compar. comparativo (比较级)
+cond. condizionale (条件式)
+cong. congiunzione, congiuntivo (连接词, 虚拟式)
+dimostr. dimostrativo (指示的)
+f. femminile (阴性; 阳性的)
+fut. futuro (将来时)
+ger. gerundio (副动词)
+imp. imperativo (命令式)
+imperf. imperfetto (未完成过去时)
+impers. impersonale (无人称的)
+indef. indefinito (不定的)
+indic. indicativo (直陈式)
+inter. interiezione (感叹词)
+interr. interrogativo (疑问词)
+invar. invariabile (词形不变的,词尾不变化的)
+m. maschile (阳性; 阳性的)
+pass. rem. passato remoto (远过去完成时)
+pers. personale (人称)
+pl. plurale (复数)
+p.p. participio passato (过去分词)
+p.pr. participio presente (现在分词)
+pref. prefisso (前缀)
+prep. preposizione (前置词)
+prep. articolata preposizione articolata (缩合前置词)
+pres. presente (现在时)
+pron. pronome (代词)
+pron. poss. pronome possessivo (物主代词)
+qlco. qualcosa (某事, 某物)
+qlcu. qualcuno (某人)
+rel. relativo (关系的)
+s. sostantivo (名词)
+sing. singolare (单数)
+suff. suffisso (后缀)
+superl. superlativo (最高级)
+v. verbo (动词)
+v. intr. verbo intransitivo (不及物动词)
+v. rifl. verbo riflessivo (自反动词)
+v. tr. verbo transitivo (及物动词)
+〈VI〉
+
+Dizionario Garzanti della lingua italiana
+G. Devoto, G.C. Oli, Dizionario della lingua italiana
+De Felice, Aldo Duro, Dizionario della lingua e della civiltà italiana contemporanea (Palumbo)
+Grande dizionario Hazon Garzanti inglese- italiano italiano-inglese
+Nicola Zingarelli, Vocabolario della lingua italiana
+Dizionario Garzanti francese- italiano italiano- francese
+Grande dizionario enciclopedico (UTET)
+Piccola enciclopedia Mondadori
+Duden italiano
+Dizionario tecnico
+Parole nuove
+Enciclopedia geografica
+
+辞海
+现代汉语词典
+法汉词典
+新英汉词典
+英拉汉植物名称
+植物学大辞典
+拉汉孢子植物名称
+动物学大辞典
+拉汉兽类名称
+拉汉脊椎动物名称
+拉汉无脊椎动物名称
+英汉植物学词汇
+英汉昆虫俗名词汇
+中国鸟类系列检索
+英汉医学词典
+新英汉医学大词典
+法汉医学词典
+英汉自然地理学词汇
+英汉数学词汇
+英汉物理学词汇
+英汉天文学词汇
+英汉航空与空间技术辞典
+英汉电工词汇
+英汉土木建筑工程词汇
+英汉农业科技词典
+英汉农业机械辞典
+英汉机械工程词汇
+英汉化学化工词汇
+日英汉造船技术辞典
+汉法建筑常用词汇
+法汉铁路词汇
+英汉道路工程词汇
+宇宙航行学词汇
+法汉航空辞典
+英汉军用车辆辞典
+英汉舰船科技词典
+英汉冶金工业词典
+英汉纺织词汇
+英汉气象学词典
+英汉心理学词典
+日英德汉对照印刷专业常用词汇
+法汉对外贸易小辞典
+英汉国际贸易词汇
+法汉国际生活实用词典
+英汉体育常用词汇
+世界地名译名手册
+
+〈?〉
+
+目录
+
+前言 I
+体例说明 II
+略语表 IV
+语法略语 V
+主要参考书目 VI
+
+正文 1-891
+
+附录一 意大利常用缩略语表 892
+附录二 意大利区、首府和主要城市名称表 904
+附录三 意大利主要山脉和山峰名称表 905
+附录四 意大利主要河流和湖泊名称表 906
+附录五 意大利语动词变位表 907
+
+〈?〉
+
+附录一
+
+SIGLE E ABBREVIAZIONI ITALIANE D'USO COMUNE
+意大利常用缩略语表
+
+A
+
+A ampere 【电】安培/ atto 【戏】幕/ Altezza 殿下 / assicurata (信件)保价的;保价信/ Alpi 阿尔卑斯山 / autore 作者 / alto 高的
+a attivo(语法)主动语态)的/ara【数】公亩
+A.A. Accademia Aeronautica 空军科学院 / Arma Aeronautica (陆军)航空部队 / Antiaerea 防空武器,高射兵器
+A.A.A. Associazione Arma di Artiglieria 炮兵协会
+A.A.I.I. Amministrazione per le Attività Assistenziali Italiane e Internazionali 意大利和国际救济活动管理局
+A.A.R.R. Altezze Reali 殿下(复数)
+ab. abitanti 居民
+abb. abbonamento 预订,订阅 / abbonato 预订者,订阅者,订户 / abbuono【商】减价,折扣
+abbr. abbreviato 缩写的,缩略的/abbreviazione 缩略语
+ABC Armi atomiche, batteriologiche e chimiche 原子、细菌、化学武器/ American Broadcasting Company or Corporation 美国广播公司
+A.B.I. Associazione Bancaria Italiana 意大利银行协会
+ABM Antiballistic Missile (Missile Antiballistico) 反弹道导弹
+A.C. Automobile Club 汽车俱乐部 / Aviazione Civile 民航/ Azione Cattolica 天主教行动会
+Ac attinio 【化】锕
+a.c. assegno circolare 【商】流通支票/ anno corrente 本年,今年/a capo【印】另起一行
+a.C. avanti Cristo 公元前
+ACB Association Internationale contre le Bruit 国际反噪音协会
+A.C.C. Alta Corte Costituzionale (意)宪法法院
+Acc. accademia 科学院,研究院/accademico 科学院的,研究院的;院士
+A.C.D.G. Associazione Cristiana dei Giovani 基督教青年会
+A.C.E. Allied Command, Europe (北大西洋公约组织)欧洲盟军司令部
+ACEA Action Committee for European Aerospace 欧洲航天行动委员会
+A.C.I. Automobile Club d'Italia 意大利汽车俱乐部/Aviazione Civile Italiana 意大利民航/Azione Cattolica Italiana 意大利天主教行动会/ Aereo Club d'Italia 意大利航空俱乐部 / Alliance Coopérative Internationale (Alleanza Cooperativa Internazionale) 国际合作社联盟
+A.C.L.I. Associazione Cattolica dei Lavoratori Italiani 意大利天主教劳动者协会
+A.D. Anno Domini (nell'anno del Signore)公元,纪元
+ADB Asian Development Bank (Banca per lo Sviluppo Asiatico)亚洲开发银行
+A.E.C.I. Aereo Club d'Italia 意大利航空俱乐部
+A.E.D.E. Association Européenne des Enseignants 欧洲教师协会
+A.E.F.M. Association Européenne des Festivals de Musique 欧洲音乐节联合会
+Α.Ε.Ι. Aereo Espresso Italiano 意大利特快航空公司 / Associazione Elettrotecnica Italiana 意大利电工协会
+A.E.L.E. Association Européenne de Libre Échange 欧洲自由贸易协会
+A.E.P. Agenzia Europea della Produttività (欧洲经济合作组织)欧洲提高生产率管理署
+a.f. alta frequenza 高频
+Ag argento 【化】银
+ag. agente 代理人 / agenzia 新闻社,通讯社;代办处,代理处/ agosto 八月
+A.G.C.I. Associazione Generale delle Cooperative Italiane 意大利合作社总会
+agg. aggettivo (语法)形容词/ aggiunto 副职的,副的,
+AGI Année Géophysique Internationale 国际地球物理年
+AGIP Azienda Generale Italiana Petroli 阿吉普公司(意大利石油总公司)
+A.G.I.R.E. Azienda Generale Italiana per l'Esportazione del Riso 意大利全国大米出口公司
+A.G.I.S. Associazione Generale Italiana dello Spettacolo 意大利戏剧总会
+ago. agosto 八月
+agric. agricolo 农业的/agricoltore 耕田者,从事农业的人/ agricoltura 农业,农艺
+agt. agente【商】代理人
+A.I. Aeronautica Italiana 意大利空军
+A.I.A. Associazione Italiana Arbitri 意大利裁判员协会
+A.I.B. Associazione Italiana Biblioteche 意大利图书馆协会
+A.I.C. Associazione Italiana Cronometristi 意大利记时员协会
+AICQ Associazione Italiana per il Controllo della Qualità 意大利质量检查协会
+A.I.C.S. Associazione Italiana Circoli Sportivi 意大利体育俱乐部协会
+AIDI Associazione Italiana per la Documentazione e l'Informazione 意大利文献及情报协会
+A.I.E. Associazione Italiana degli Editori 意大利出版商协会/ Associazione Internazionale degli Economisti 国际经济学家协会
+AIEA Agence Internationale de l'Energie Atomique 国际原子能机构
+A.I.F. Alliance Internationale des Femines 国际妇女联盟
+A.I.S.E. Associazione Internazionale delle Scienze Economiche 国际经济学协会
+AIT Alliance Internationale de Tourisme 国际旅游联合会
+Al alluminio【化】铝
+ALALC Asociación Latino-americana de Libre Comercio (Associazione Latino-americana di Libero Scambio) 拉丁美洲自由贸易协会
+ALFA Anonima Lombarda Fabbrica Automobili 阿尔法公司(伦巴底汽车股份有限公司)
+alg. algebra 代数
+ALITALIA Linee Aeree Italiane 意大利航空公司
+all. allegato 附带的;附件
+all'ingr. all'ingrosso 批发地
+A.L.P.I. Associazione Liberi Partigiani d'Italia 意大利自由游击队员协会
+alt. altezza 高度 / altitudine 海拔;高度
+A.M. Accademia Militare 军事科学院/ Aeronautica Militare 空军
+a.m. antimeridiano 上午的,午前的;【地】反子午线
+amb. ambasciata 大使馆/ ambasciatore 大使 / ambulanza 野战医院;救护车
+
+〈893〉
+
+Α.Μ.Ι. Aeronautica Militare Italiana 意大利空军
+AMJ Assemblée Mondiale de la Jeunesse 世界青年大会
+amm. amministratore 管理人员,行政官员/amministrazione 管理,行政 / ammiraglio 海军上将
+AMM Association Médicale Mondiale 世界医学协会
+Α.Μ.Μ.Ι. Azienda Minerali Metallici Italiani 意大利金属矿山公司
+AMS Assemblée Mondiale de la Santé 世界卫生大会。
+Α.Ν.Α.G. Associazione Nazionale Arma del Genio 全国退役工兵协会
+A.N.A.S. Azienda Nazionale Autonoma delle Strade 全国公路管理局
+A.N.C.C. Associazione Nazionale per il Controllo della Combustione 全国燃烧检验协会
+A.N.F. Associazione Nazionale del Fante 全国步兵协会
+Α.Ν.F.I.A. Associazione Nazionale fra le Industrie Automobilistiche 全国汽车工业协会
+ang. angolo角,角度
+Α.Ν.Ι.Α. Associazione Nazionale fra le Imprese Assicuratrici 全国保险公司协会
+A.N.I.C Azienda Nazionale Idrocarburi (埃尼公司的)国家碳化氢燃料公司
+A.N.I.C.A. Associazione Nazionale fra gli Istituti di Credito Agrario 全国农业信贷银行协会
+A.N.L. Accademia Nazionale dei Lincei 国家林琴科学院
+Α.Ν.Μ.Ι.G. Associazione Nazionale Mutilati e Invalidi di Guerra 全国残废军人协会
+Α.Ν.Μ.I.L. Associazione Nazionale Mutilati e Invalidi del Lavoro 全国残废工人协会
+anon. anonima(信件)匿名的;(公司)股份有限的
+A.N.P.I. Associazione Nazionale Partigiani d'Italia 意大利全国游击队员协会
+A.N.S.A., ANSA Agenzia Nazionale Stampa Associata 安莎通讯社
+ant. antimeridiano 上午的,午前的;【地】反子午线
+A.N.V.G. Associazione Nazionale Volontari di Guerra 全国志愿兵协会
+AP Associated Press (美国)联合通讯社(美联社)
+A.P. Alta Pressione 高压
+A.P.E. Assemblea Parlamentare Europea 欧洲议会大会
+apr. aprile 四月
+Ar argon 【化】氣
+a.r. a riposo 退休的,养老的
+A.R. Altezza Reale 殿下 / andata e ritorno 往返,来回
+Arc. Arcivescovo 大主教
+A.R.C.E. Associazione per le Relazioni Culturali con l'Estero 对外文化协会
+arch. archivio 档案;档案室/ architetto 建筑师/ architectura 建筑学
+archeol. archeologia 考古学
+ARI Agenzia Romana Informazioni 罗马新闻社,
+arit., aritm. aritmetica 算术/ aritmetico 算术的;算术家
+arr. arrivo【铁】到达,到站
+A.R.S. Assemblea Regionale Siciliana 西西里区议会
+art. articolo (语法)冠词
+As arsenico 【化】砷,砒霜
+A.S.Ε.Α.Ν., ASEAN Association of Suotheast Asian Nations (Associazione delle Nazioni dell'Asia sud-orientale) 东南亚国家联盟
+A.S.I. Associazione Scacchistica Italiana 意大利象棋协会
+A.S.L.I.B., ASLIB Association of Special Libraries and Information Bureaux (英)专门图书馆及情报机构协会
+ass. assicurata 保险的;(信件)保价的/assegrio 支票
+ASSOBANCA Associazione Bancaria Italiana 意大利银行家协会
+ASSOLOMBARDA Associazione Industriale Lombarda (意)伦巴第工业家协会
+A.S.S.T. Azienda di Stato per i Servizi Telefonici 全国国营电话局
+A.S.T. Agenzia della Stampa Tecnica 技术新闻社
+astr., astron. astronomia 天文学/astronomo 天文学家
+A.T. Antico Testamento《旧约全书》
+A.T.A.C., ATAC Azienda Tranvie e Autobus del Comune (罗马)市电车和公共汽车公司
+A.T.I. Azienda Tabacchi Italiani 意大利烟草公司/ Aereo Trasporti Italiani 意大利航空运输
+atm. atmosfera 大气;大气压/ atmosferico 大气的
+atom. atomico 原子的
+att. attività 活动 / attivo (语法)主动(语态)的/attivo【商】盈利的
+attr. attributo (语法)定语
+ATTU Asian Table Tennis Unione (Unione del Tennis da Tavolo dell'Asia) 亚洲乒乓球联盟
+Au oro【化】金
+aus. ausiliare 辅助的
+autom. automatismo 自动性/automezzo 机动车,汽车/ automobile 汽车/ automobilista 驾驶汽车的人;赛车运动员 / automazione 自动 / autonomo 自治的
+aviazione 航行,航空/aviatore 飞行员
+avv. avverbio(语法)副词/avvocato 律师
+az. azione【商】股票/azionista【商】股东
+
+B
+
+B bar【物】巴(压力单位)/ boro【化】硼
+b. balla【商】捆,包
+Ba bario【化】钡
+B.A. Belle Arti 美术
+Bar. Barone 男爵
+ba.sa baronessa 男爵夫人;女男爵
+BBC British Broadcasting Corporation 英国广播公司
+B.C.I. Banca Commerciale Italiana 意大利商业银行
+B.E.I. Banca Europea degli Investimenti 欧洲投资银行
+b.f. bassa frequenza 低频
+B.I. Banca d'Italia 意大利银行
+Bi bismuto【化】铋
+bibl. bibliografia 目录学 / bibliografo 目录学家/biblioteca 图书馆 / biblico 圣经的
+bim. bimestre 两个月/bimestrale 双月的,两月一次的/ bimensile 每月二次的
+biol. biologia 生物学 / biologo 生物学家
+BIRD Banque Internationale pour la Reconstruction et le Développement (Banca Internazionale per la Ricostruzione e lo sviluppo) (联合国)国际复兴开发银行
+bis. bisestile 闰年的
+bisett. bisettimanale 每周两次的
+B/L bill of lading 提(货)单
+B.M. Banca Mondiale 世界银行
+B.N.L. Banca Nazionale del Lavoro 国家劳动银行
+boll. bolletta【商】收据,单据 / bollettino 公报 / bollato 盖有印花稅戳的
+bot. botanica 植物学 / botanico 植物的;植物学的
+Br bromo 【化】溴
+B.R. Banca di Roma 罗马银行
+brev. brevetto 专利权
+B.U. Bollettino Ufficiale 官方公报
+B.U.P., BUP British United Press 英国合众社
+B.V.M. Beata Vergine Maria 圣母玛利亚
+
+C 
+
+C carbonio 【化】碳 / coulomb【物】库仑
+Ca calcio 【化】钙
+с.а. corrente alternata 交流电
+C.A.A. Corte d'Assise d'Appello(意)(重罪)上诉法院
+CAAC General Administration of Civil Aviation of China (Amministrazione Generale dell'Aviazione Civile della
+
+〈894〉
+
+Cina)中国民用航空总局
+cabl. cablogramma 海底电报
+C.A.E. Comunità Agricola Europea 欧洲农业共同体
+C.A.I. Club Alpino Italiano 意大利登山俱乐部
+C.A.M.E.N. Centro d'Applicazioni Militari dell'Energia
+Nucleare 军用核能中心
+canc. cancelleria(法院的)文书室,冰事处/ cancelliere (法院的)文书,录事
+cap. capitano 上尉;船长/ capitolo章,节
+cap.mag. caporale maggiore 一等兵
+C.A.R. Centro Addestramento Reclute 新兵训练中心
+Card. Cardinale 红衣主教
+C.A.S.I. Commission Aéronautique Sportive Internationale 国际航空体育委员会
+C.A.S.M. Centro di Alti Studi Militari 高级军事研究中心
+Cass. (Corte di) Cassazione 最高法院
+C.A.T. Comando Aereo Tattico 空军战术指挥部
+cat. categoria 类,范畴/ catalog目录
+Cav. cavaliere 骑士
+C.A.V.I. Centre Audio-Visuel Internationale 国际视听中心
+C.B.S. Columbia Broadcasting System (美国)哥伦比亚广播公司
+cc centimetri cubici 立方厘米
+c.c. corrente continua 直流电/ corto circuito 【电】短路
+C.C.C. Centro Cinematografico Cattolico 天主教电影中心
+C.C.I. Camera di Commercio Internazionale 国际商会
+C.C.S. Centro Cattolico della Stampa 天主教新闻中心
+C.C.S.M. Comando Corpo di Stato Maggiore 参谋部指挥部
+Cd cadmio【化】镉
+C.D. Corpo Diplomatico 外交使团/ Consigliere Delegato 常务理事
+C.D.C. Compagnia Doppiatori Cinematografici 电影译制配音公司
+C.d.L. Camera del Lavoro(意大利地区性的)工会
+C.D.N. Comitato di Difesa Nazionale 国防委员会
+C.d.R. Cassa di Risparmio 储蓄银行
+C.d.S. Circolo della Stampa 新闻俱乐部 / Codice della
+Strada 交通规则 / Consiglio di Sicurezza(联合国)安全理事会,安理会
+Ce cerio【化】铈
+C.E. Comitato Esecutivo 执行委员会 / Consiglio Europeo 欧洲理事会
+C.E.A. Confederazione Europea dell'Agricoltura 欧洲农业联合会
+C.E.C.A., CECA Comunità Europea del Carbone e dello Acciaio 欧洲煤钢联营
+C.E.C.F., CECF Chinese Export Commodities Fair (Fiera degli Articoli Cinesi d'Esportazione) 中国出口商品交易会
+C.E.D. Comunità Europea di Difesa (E.D.C. European Defence Community) 欧洲防务集团
+C.E.E., CEE Comunità Economica Europea 欧洲经济共同体
+C.E.E.A. Comunità Europea per l'Energia Atomica 欧洲原子能联营
+CEI Comitato Elettrotecnico Italiano 意大利电工委员会
+C.E.N. Centro di Studi dell'Energia Nucleare (比利时)核能研究中心
+CENFAM Centro Nazionale di Fisica dell'Atmosfera e Meteorologia (意大利)全国大气物理学和气象学中心
+CENTO Central Treaty Organization (Organizzazione del Trattato Centrale) 中央条约组织
+CEPES Comitato Europeo per il Progresso Economico e Sociale 欧洲经济及社会发展委员会
+C.E.R.N. Consiglio Europeo per le Ricerche Nucleari 欧洲核研究组织
+C.E.R.P. Centro Europeo di Relazioni Pubbliche 欧洲公共关系中心
+CG centre of gravity 【物】重心 / Console Generale 总领事
+C.G.A.I. Confederazione Generale dell'Agricoltura Italiana 意大利农业总联合会
+C.G.I.A. Confederazione Generale Italiana dell'Artigianato 意大利手工业总联合会
+C.G.I.C. Confederazione Generale Italiana del Commercio 意大利商业总联合会
+C.G.I.I. Confederazione Gencrale Italiana dell'Industria 意大利工业总联合会
+C.G.I.L. Confederazione Generale Italiana del Lavoro 意大利总工会
+CGS centimetro-grammo-secondo 厘米-克-秒(单位制)
+chim. chimica 化学/ chimico 化学的
+chir. chirurgia 外科
+C.I. Credito Italiano 意大利信贷银行/ Corte Internazionale (dell'Aia) (海牙)国际法院
+c.i. combustione interna 内燃
+CIA Central Intelligence Agency (美国)中央情报局
+C.ia compagnia 公司
+C.I.F. Centro Italiano Femminile 意大利妇女中心
+C.I.M. Centro Italiano della Moda 意大利时装中心
+C.I.G.A. Compagnia Italiana dei Grandi Alberghi 意大利大旅社公司
+C.I.M.E. Comitato Italiano per le Migrazioni Europce 意大利欧洲移民委员会
+C.I.O. Comitato Internazionale Olimpico 国际奥林匹克委员会
+C.I.O.S. Comitato Internazionale Organizzazione Scientifica 国际科学组织委员会
+C.I.S.C. Confederazione Internazionale dei Sindacati Cristiani 基督教工会国际联合会
+C.I.S.L. Confederazione Italiana Sindacati Lavoratori 意大利劳动人民工会联合会 / Confederazione Internazionale dei Sindacati Liberi 国际自由工会联合会
+C.I.T. Compagnia Italiana di Turismo 意大利旅游公司
+cit. citato引证的
+C.I.T.O.M. Compagnia Italiana Trasporto Oli Minerali 意大利矿油运输公司
+C.I.U.S. Consiglio Internazionale delle Unioni Scientifiche 国际科学协会理事会
+C.I.V.I.S. Centro Italiano per i Viaggi d'Istruzione per Studenti 意大利学生教育旅行中心
+cl centilitro 厘升
+Cl cloro 【化】氨
+C.L.N. Comitato di Liberazione Nazionale 民族解放委员会
+C.L.N.A.I. Comitato di Liberazione Nazionale dell'Alta Italia【史】意大利北部民族解放委员会
+cm centimetro 厘米
+cmc centimetro cubico 立方厘米
+cmq centimetro quadrato 平方厘米
+C.N. Comitato Nazionale 全国委员会
+C.N.A. Costruzioni Nazionali di Apparecchi Aeronautici 全国飞行器制造
+C.N.E.L. Consiglio Nazionale dell'Economia e del Lavoro 全国经济劳工理事会
+C.N.E.N. Comitato Nazionale per l'Energia Nucleare 全国核能委员会
+C.N.I.M.E. Consiglio Nazionale Italiano di Movimento Europeo 意大利欧洲运动全国理事会
+C.N.P. Comitato Nazionale per la Produttività 全国生产率委员会
+C.N.R. Consiglio Nazionale delle Ricerche 全国(学术)研究理事会
+C.N.R.N. Comitato Nazionale per le Ricerche Nucleari 全国核研究委员会
+Co cobalto 【化】钴
+cod. codice法典;法律;规则
+Col. Colonnello 上校
+coll. collettivo 集体的
+com. comandante 司令,指挥官
+COMECON, Comecon Council for Mutual Economic Assistance or Aid (Consiglio di Mutua Assistenza Economica)经济互助委员会(经互会)
+COM.E.S. Comunità europea degli Scrittori 欧洲作家联盟
+COMINFORM, Cominform Communist Information (Bureau)共产党(工人党)情报局
+COMINTERN, Comintern Communist International 共产国际
+
+〈895〉
+
+comp. comparativo (语法)比较的
+compl. complemento (语法)补语
+cond. condizionale (语法)条件式
+Conf. Agricoltura Confederazione Generale Italiana dell'Agricoltura 意大利农业总联合会
+Conf. Artigianato Confederazione Generale Italiana dell'Artigianato 意大利手工业总联合会
+Conf. Commercio Confederazione Generale Italiana de Commercio 意大利商业总联合会
+Conf. Industria, Confindustria Confederazione Generale dell'Industria Italiana 意大利工业总联合会
+cong. congiuntivo (语法)虚拟式 / congiunzione (语法)连词
+C.O.N.I. Comitato Olimpico Nazionale Italiano 意大利奧林匹克全国委员会
+coniug. coniugato(语法)已变位的/coniugazione(语法)动词变位
+cons. consigliere顾问;参赞;理事 
+coop. cooperativa 合作社 / cooperazione 合作
+cos. coseno【数】余弦
+cosec. cosecante 【数】余割
+costr. costruzione 建设
+costr. nav. costruzione navale 造船
+cot. cotangente【数】余切
+c.p. cartolina postale 明信片
+C.P.C. Codice di Procedura Civile 民事诉讼法
+C.P.P. Codice di Procedura Penale 刑事诉讼法
+C.R. Croce Rossa 红十字会
+Cr cromo【化】铬
+c.r. con riserva 有保留地
+C.R.I. Croce Rossa Italiana 意大利红十字会/Croce Rossa Internazionale 国际红十字会
+C.R.U.E.I. Centro Italiano per le Relazioni Universitarie con l'Estero 意大利大学对外联络中心
+c.s. come sopra 同上
+Cs cesio【化】铯
+C.S.C. Centro Sperimentale di Cinematografia 电影实验中心
+C.S.C.E. Conference on Security and Cooperation in Europe 欧洲安全和合作会议(欧安会)
+C.S.D. Commissione Suprema di Difesa 最高防务委员会
+C.S.d.P.I. Consiglio Superiore della Pubblica Istruzione 公共教育最高委员会
+C.S.I. Centro Sportivo Italiano 意大利体育中心/ Codice Sportivo Internazionale 国际体育法
+C.T. Commissario Tecnico 技术指导
+CTIP Compagnia Tecnica Industrie Petroli 石油工业技术公司
+c.to conto 帐,计算
+Cu rame【化】铜
+C.V. Cavallo Vapore马力
+
+D 
+
+D. Diretto 【铁】直达车/ deuterio 【化】氘/ derivato【数】导数,微商
+d. diametro 直径
+dag decagrammo 十克
+dal decalitro 十升
+dam decametro +米
+D.C. Democrazia Cristiana 天主教民主党
+d.C. dopo Cristo公元,纪元
+d.c. da capo【音】从头,从头重复乐曲;【无】重复信号,重发信号
+D.Cr. Divisione Corazzata 装甲师
+DD Direttissimo【铁】直达快车
+D.D.T. Diclorodifeniltricloroetano 滴滴涕,二氯二苯三氯乙烷
+dec. decotto 汤药
+Decr. Decreto 法令,政令
+dev. devoto 忠诚的,忠实的(书信用语)
+dev.mo devotissimo 最忠诚的,最忠实的(书信用语)
+D.G. Direttore Generale 总经理,董事长
+dial. dialetto 方言,土话/ dialettale 方言的,土语的
+dic. dicembre 十二月
+diff. differenza 区别;【数】差/ differente 不同的,差异的/ differenziale 差别的;【数】微分;微分的
+dipl. diploma 证书,文凭
+dir. diritto 法律 / diretto【铁】直达车
+Dir. Direttore 领导者;经理;主任;处(局)长/ direzione 指导,领导;领导人办公室
+Dir.ce Direttrice 女领导者,女经理;女主任
+diz. dizionario 字典,词典
+dom. domenica 星期日
+dott. dottore 博士;医生
+dozz. dozzina 一打
+Dr. dottore 博士;医生
+Dr.ssa dottoressa 女博士;女医生
+ds. destro 右的
+dz. dozzina 一打
+
+E 
+
+E Est东,东方 / Spagna 西班牙(汽车牌照)
+E.A. Ente Autonomo 独立公司;独立机构 / Energia Atomica 原子能
+E.B.U. European Broadcasting Union (Unione Europea di Radiodiffusione)欧洲广播联盟
+E.C.A, ECA Economic Commission for Africa (Commissione Economica dell'Africa) (联合国)非洲经济委员会
+ECAFE Economic Commission for Asia and the Far East (Commissione Economica dell'Asia e dell'Estremo-Oriente)(联合国)亚洲及远东经济委员会
+Ecc. Eccellenza 阁下
+ecc. eccetera 等等
+ECE Economic Commission for Europe (Commissione Economica dell'Europa)(联合国)欧洲经济委员会
+ECLA Economic Commission for Latin America (Commissione Economica dell'America Latina) (联合国)拉丁美洲经济委员会
+ECO.SO.C., ECOSOC Economic and Social Council (Consiglio Economico e Sociale) (联合国)经济及社会理事会
+ed. edile 建筑的;建筑工人/ edilizio建筑的,营造的/editore 出版的;出版者,出版商 / editrice 出版者 / edizione 出版;版本
+edit. editore出版的;出版者,出版商
+E.E. Escursionisti Esteri 外国旅行者(汽车牌照)
+EE.PP.TT. Enti provinciali per il Turismo 省旅游公司(复数)
+E.F.T.A. European Free Trade Association (Associazione Europea di Libero Scambio)欧洲自由贸易联盟
+Egr.Sig. Egregio Signore 尊敬的先生
+E.H.F. European Hockey Federation 欧洲曲棍球联合会
+E.I. Enciclopedia Italiana 意大利百科全书 / Esercito Italiano 意大利军队
+E.I.D.A. Ente Italiano per il Diritto d'Autore 意大利版权机构
+E.I.E. Ente Internazionale delle Esposizioni 国际展览公司
+E.I.M. Ente Italiano della Moda 意大利时装公司
+elettr. elettricità 电 / elettrico 电的 / elettronica 电子学 / elettronico电子的;电子学的
+elettrochim. elettrochimica 电化学 / elettrochimico 电化学的
+elettromecc. elettromeccanica 电机学 / elettromeccanico 电机的;电机工人
+E.M.I. Edizioni Musicali Italiane 意大利音乐出版社
+E.N. Educazione Nazionale 国民教育
+Ε.Ν.Α.Ρ.Ι. Ente Nazionale per l'Artigianato e le piccole Industrie 全国手工业和小工业机构
+Ε.Ν.Ε.Α. European Nuclear Energy Agency. (Agenzia Europea per l'Energia Nucleare)欧洲核能机构
+E.N.E.L. Ente Nazionale per l'Energia Elettrica 国家电力公司
+
+〈896〉
+
+Ε.Ν.Ι. Ente Nazionale Idrocarburi 国家碳化氢公司(埃尼公司)
+Ε.Ν.Ι.Μ., ΕΝIM Ente Nazionale dell'Istruzione Media 全国中等教育机构
+Ε.Ν.Ι.N.S., ENINS Ente Nazionale Insegnamento non Statale 全国私人教育机构
+Ε.Ν.Ι.Ο.Σ., ΕNIOS Ente Nazionale Italiano per l'Organizzazione Scientifica del Lavoro 意大利全国劳动科学组织机构
+Ε.Ν.Ι.Τ. Ente Nazionale per le Industrie Turistiche 全国旅游业公司
+E.N.P.A. Ente Nazionale per la Protezione degli Animali 全国动物保护机构
+E.P.T. Ente Provinciale per il Turismo 省旅游公司
+E.P.U. European Payments Union 欧洲支付同盟
+eq. equazione【数】方程式,等式
+Er erbio【化】铒
+E.R.A. Ente Riforma Agraria 土地改革机构
+E.R.P. European Recovery Programme (Programma di Ricostruzione Europea) 欧洲复兴计划(即“马歇尔计划”)
+E.R.R. Ente Radio Rurali 农村广播公司
+es. esempio 例子,实例
+E.S.C.A.P., ESCAP Economic and Social Commission for Asia and the Pacific (联合国)亚洲及太平洋经济和社会委员会
+E.S.O.M.A.R., ESOMAR European Society for Opinion Surveys and Market Research (Società Europea per lo Studio dell'Opinione Pubblica e dei Mercati) 欧洲民意测验和市场调查协会
+E.S.R.O. European Space Research Organization (Organizzazione Europea per le Ricerche Spaziali)欧洲空间研究组织
+E.T.I. Ente Teatrale Italiano 意大利戏剧公司
+E.T.T.U. European Table Tennis Union 欧洲乒乓球联合会
+euf. eufemismo 委婉法,婉曲语
+E.U.R. Esposizione Universale di Roma罗马万国博览会
+eur. europeo 欧洲的
+EURATOM, Euratom European Atomic Energy Community (Comunità Europea per l'Energia Atomica) 欧洲原子能联营
+EUROVISION, Eurovision European Television (Televisione Europea)欧洲电视联播
+
+F 
+
+F farad 【物】法拉/forza【物】力 / funzione【数】函数
+f. femminile(语法)阴性的
+F.A. Forze Armate 武装力量,武装部队
+fabbr. fabbrica 工厂厂 / fabbricante 制造者,制造商
+F.A.I. Fédération Aeronautique Internationale (Federazione Internazionale Aeronautica)国际:航空联合会
+FAO Food and Agricolture Organisation (Organizzazione per l'Alimentazione e l'Agricoltura) (联合国)粮食及农业组织
+farm. farmacia 药房 / farmacista 药剂师
+F.A.S.T. Federazione delle Associazioni Scientifiche e Tecniche (意)科学技术协会联合会
+fatt. fattura【商】货单;帐单;发票
+F.B.I., FBI Federal Bureau of Investigation(美国)联邦调查局
+F.C.I. Federazione Ciclistica Italiana 意大利自行车运动联合会
+f.co franco 法朗
+F.D.I.F. Fédération Démocratique Internationale des Femmes 国际民主妇女联合会
+Fe ferro 【化】铁
+feb. febbraio 二月
+FEDERTERRA Federazione dei Lavoratori della Terra 农业劳动者联合会
+feder. Tessili Federazione Italiana Sindacati Lavoratori Tessili 意大利纺织工会联合会
+fem forza elettro-motrice 电动力
+femm. femminile (语法)阴性的
+ferr. ferrovia 铁路
+ff fortissimo【音】极强,最强
+ff., ff. facente funzione 代理
+FF.AA. Forze Armate 武装力量,武装部队
+fff fortissimo【音】极强,最强
+FF.SS., F.S. Ferrovie dello Stato 国家铁路,国有铁路。
+F.G.I. Federazione Ginnastica Italiana 意大利体操联合会
+F.I.A. Federazione Internazionale Automobilistica 国际汽车运动联合会
+F.I.A.T., FIAT Fabbrica Italiana Automobili Torino 意大利菲亚特汽车公司
+F.I.B.A. Fédération Internationale de Basketball Amateur 国际业余篮球联合会
+F.I.C. Federazione Italiana Canottaggio 意大利划艇联合会 / Federazione Italiana Cronometristi 意大利计时员联合会
+F.I.D.A.L. Federazione Italiana di Atletica Leggera 意大利田径联合会
+F.I.D.A.P. Federazione Italiana di Atletica Pesante 意大利举重、拳击、摔跤联合会
+F.I.D.C. Federazione Italiana della Caccia 意大利狩猎联合会
+F.I.F.A., FIFA Fédération Internationale de Football Associations (Federazione Internazionale Gioco Calcio)足球协会国际联合会
+F.I.G. Federazione Italiana Golf 意大利高尔夫球联合会
+F.I.G.C. Federazione Italiana Gioco Calcio 意大利足球协会
+F.I.H.P. Federazione Italiana Hockey e Pattinaggio 意大利冰球和滑冰联合会
+F.I.L.M. Federazione Italiana Lavoratori Marittimi 意大利海上劳动者联合会
+filol. filologia 语言学 / filologo 语言学家
+filos. filosofia 哲学 / filosofo 哲学家
+F.I.L.S. Federazione Italiana Lavoratori dello Spettacolo 意大利戏剧工作者联合会
+F.I.M. Federazione Italiana Metalmeccanici 意大利冶金机械工人联合会 / Federazione Italiana Motonautica 意大利摩托艇运动联合会
+F.I.N. Federazione Italiana Nuoto 意大利游泳联合会
+F.I.N.A. Fédération Internationale de Natation des Ama- teurs 国际业余游泳联合会
+F.I.O.M. Federazione Impiegati e Operai Metallurgici 冶金职工联合会
+F.I.P. Federazione Italiana Pallacanestro 意大利篮球联合会/ Fédération Internationale de Philatélie 国际集邮联合会
+F.I.P.A.B. Federazione Italiana Palla-Base 意大利棒球联合会
+F.I.P.A.V. Federazione Italiana Palla-Volo 意大利排球联合会
+F.I.P.S. Federazione Italiana Pesca Sportiva 意大利釣魚联合会
+F.I.R. Federazione Italiana Rugby 意大利橄榄球联合会
+F.I.S. Federazione Italiana della Strada 意大利公路联合会 / Federazione Italiana Scherma 意大利击剑联合会 / Fédération Internationale de Ski 国际滑雪联合会
+fis. fisica 物理学 / fisico 物理的;物理学家
+fis.atom. fisica atomica 原子物理
+F.I.S.C. Federazione Internazionale Sindacati Cristiani 基督教工会国际联合会
+F.I.S.G. Federazione Italiana Sport Ghiaccio 意大利冰上运动联合会
+F.I.S.I. Federazione Italiana Sport Invernali 意大利冬季运动联合会
+fisiol. fisiologia 生理学 / fisiologo 生理学家
+F.I.S.L. Federazione Internazionale dei Sindacati Liberi 国际自由工会联合会
+F.I.T. Federazione Italiana Tennis 意大利网球联合会 /
+
+〈897〉
+
+Fédération Internationale des Traducteurs 国际翻译工作者联合会
+F.I.T.A. Fédération Internationale di Tir à l'Arc 国际射箭联合会
+F.I.T.T. Fédération Internationale de Tennis de Table 国际乒乓球联合会
+F.I.V.B. Fédération Internationale de Valley-Ball 国际排球联合会
+Fl fluoro 【化】氟
+F.L.N. Fronte di Liberazione Nazionale 民族解放阵线
+F.M., f.m. forza motrice 动力
+f.m. fine mese 月底
+F.M.G.D. Federazione Mondiale della Gioventù Democratica 世界民主青年联盟
+F.M.I. Federazione Motociclistica Italiana 意大利摩托车联合会 / Fondo Monetario Internazionale 国际货币基金组织
+F.N.S.I. Federazione Nazionale della Stampa Italiana 意大利全国新闻联合会
+fonet. fonetica 语音学
+fot. fotografia 摄影,照相;照片 / fotografo 摄影师
+foto fotografia 摄影,照相,照片
+fotomecc. fotomeccanica 摄影制版印刷术
+F.P.I. Federazione Pugilistica Italiana 意大利拳击联合会
+freq. frequenza 频率;次数 / frequente 多次的,经常的/ frequententemente 多次地,经常地
+F.S.M. Federazione Sindacale Mondiale 世界工会联合会(世界工联)
+f.to firmato 已签名的,已签署的
+F.U.C.I. Federazione Universitaria Cattolica Italiana 意大利天主教大学生联合会
+fut. futuro (语法)将来时
+fut.ant. futuro anteriore (语法)先将来时
+
+G
+
+g grammo 克/ giorno 天,日子
+Ga gallio 【化】镓
+G.A.T.T. General Agreement on Tariffs and Trade (Accordo Generale sulle Tariffe e sul Commercio) 关税及贸易总协定
+G.C. Gesù Cristo 耶穌基督 / Gran Croce 大十字勋章
+Gd gadolinio 【化】钆
+G.d.F. Guardia di Finanza 财政警察
+Ge germanio 【化】锗
+Gen. Generale 将军
+genn. gennaio 一月
+geod. geodesia 大地测量学
+geogr. geografia 地理学 / geografo 地理学家
+geol. geologia 地质学 / geologo 地质学家
+geom. geometria 几何学/ geometra 几何学家;测地员,勘测员
+ger. gerundio (语法)副词
+GG.FF. Guardie Forestali 森林警察
+giorn. giornale 报 / giornalista 新闻记者,新闻工作者/ giornaliero 每日的,天天的
+giov. giovedì 星期四
+giu. giugno 六月
+G.M.T. Greenwich Mean Time (Tempo Medio di Greenwich) 格林威治平(均)时,世界时
+G.P.A. Giunta Provinciale Amministrativa 省政府
+G.Q.G. Gran Quartiere Generale 总司令部,统帅部
+gr grammo 克
+gram(m), grammatica 语法 / grammaticale 语法的
+G.S.V. Guided Space Vehicle 制导航天器
+G.V. Grande Velocità 【铁】快件(货物)
+
+H
+
+Hidrogeno 【化】氢
+h ora 小时
+ha ettaro
+He elio 【化】氦
+Hf afnio 【化】铪
+H.F. Alta Frequenza 高频
+Hg mercurio 【化】汞,水银
+hg ettogrammo 百克
+hl ettolitro 百升
+hm ettometro 百米
+hmq ettometro quadrato 百平方米
+H.P. Cavallo Vapore 马力
+
+I
+
+I iodio 【化】碘
+I.A.A.F., IAAF International Amateur Athletic Federation (Federazione Internazionale dell'Atletica Dilettante) 国际业余田径联合会
+IADL International Association of Democratic Lawyers (Associazione Internazionale dei Giudici Democratici) 国际民主法律工作者协会
+IAEA International Atomic Energy Agency (Agenzia Internazionale per l'Energia Atomica) (联合国)国际原子能机构
+IAF International Astronautical Federation (Federazione Internazionale Astronautica) 国际航天联合会
+IAMAP International Association of Meteorology and Atmospheric Physics (Associazione Internazionale della Meteorologia e la fisica Atmosferica) 国际气象学和大气物理学协会
+I.A.R.U., IARU International Amateur Radio Union (Unione Internazionale Radio-Amatori) 国际业余无线电联合会
+I.A.S.M., IASM Istituto per l'Assistenza allo Sviluppo del Mezzogiorno (意)复兴南部地区协进会
+Ι.Α.Τ.Α., ΙΑTA International Air Trasport Association (Associazione Internazionale del Traffico Acreo) 国际航空运输协会
+I.B.F. International Badminton Federation 国际羽毛球联合会
+ibid. (ibidem) nello stesso luogo 同一处,同上
+I.B.R.D., IBRD International Bank for Reconstruction and Development (Banca Internazionale per la Ricostruzione e lo Sviluppo) (联合国)国际复兴开发银行
+I.C.A.O., ICAO International Civil Aviation Organization (Organizzazione Internazionale per l'Aviazione Civile) (联合国)国际民用航空组织
+I.C.B.M., ICBM Intercontinental Ballistic Missile (Missile Balistico Intercontinentale) 洲际弹道导弹
+I.C.E. Istituto per il Commercio Estero 对外贸易学会
+I.C.I.T.E., ICITE Istituto Centrale per l'Industrializzazione e la Tecnologia Edilizia (意)工业化与建筑技术中央研究所
+ICJ International Court of Justice (Corte Internazionale di Giustizia) (联合国)国际法院
+ICRC International Committee of the Red Cross (Comitato Internazionale della Croce Rossa) 红十字国际委员会
+I.C.S. (ISTAT) Istituto Centrale di Statistica (意)中央统计局
+I.C.S.U. International Council of Scientific Unions (Consiglio Internazionale delle Unioni Scientifiche) 国际科学协会理事会
+id. (idem) lo stesso 同前,同上
+IDA International Development Association (Associazione Internazionale dello Sviluppo) (联合国)国际开发协会。
+id.c.s. idem come sopra 同上
+I.d.L. Ispettorato del Lavoro 工作监察员的职务;工作监察机构
+idr. idraulica 水利学,水力学 / idraulico 水利的,水力的
+IFJ International Federation of Journalists (Federazione Internazionale dei Giornalisti) 国际新闻工作者联合会
+I.G.M. Istituto Geografico Militare 军事地理学会
+
+〈898〉
+
+I.G.Y., IGY International Geophysical Year (Anno Geofisico Internazionale)国际地球物理年
+I.I.A. International Institute of Agriculture (Istituto Internazionale dell'agricoltura)国际农业学会
+I.I.S. Istituto Internazionale di Statistica 国际统计学会
+I.L.O. International Labour Organization (Organizzazione Internazionale del Lavoro) (联合国)国际劳工组织
+Ill.mo Illustrissimo 最尊敬的(书信中用语)
+I.M.C.O., IMCO Intergovernmental Maritime Consultative Organization(联合国)政府间海事协商组织
+I.M.I. Istituto Mobiliare Italiano 意大利动产学会
+imp., imper. imperativo (语法)命令式/ imperfetto (语法)未完成过去时
+imperf., impf. imperfetto(语法)未完成时
+impers. impersonale (语法)无人称的
+impr. impresa企业,公司
+In indio 【化】铟
+I.N.A. Istituto Nazionale delle Assicurazioni 全国保险学会
+I.N.A.M. Istituto Nazionale Assicurazione Malattie 全国疾病保险学会
+I.N.A.S. Istituto Nazionale Assistenza Sociale 全国社会救济学会
+I.N.C.E. Istituto Nazionale di Credito Edilizio 全国建筑信贷学会
+ind. industria 工业 / industriale 工业的/ indicativo (语法)直陈式
+indef. indefinito (语法)不定的
+indic. indicativo (语法)直陈式
+I.N.E. Istituto Nazionale Esportazioni 全国出口学会
+inf. infinito(语法)不定式
+I.N.F.N. Istituto Nazionale di Fisica Nucleare 全国核物理学会
+Ing. ingegneria 工程,工程学 / ingegnere 工程师
+ing. chim. ingegneria chimica 化学工程 / ingegnere chimico 化学工程师
+ing. civ. ingegneria civile 土木工程 / ingegnere civile 土木工程师
+ing. elettrot. ingegneria elettrotecnica 电工工程 / ingegnere elettrotecnico 电工工程师
+I.N.T. Istituto Nazionale Trasporti 全国运输学会
+int., inter. interiezione (语法)感叹词
+INTER. POL., Interpol. International Criminal Police Commission (Commissione Internazionale di Polizia Criminale)国际刑事警察委员会
+interr. interrogativo (语法)疑问的
+intr., intrans. intransitivo(语法)不及物的
+IPA International Phonetic Association (Associazione Internazionale della Fonetica)国际语音学协会 / International Phonetic Alphabet (Alfabeto Internazionale della Fonetica)国际音标
+IPI International Press Istitute (Istituto Internazionale della Stampa)国际新闻学会
+IPU Inter-Parliamentary Union (Unione Inter-Parlamentare)各国议会联盟
+Ir iridio【化】铱
+I.R.B.M, IRBM Intermediate Range Ballistic Missile 中程弹道导弹
+IRC International Rice Commission (联合国)国际水稻委员会
+I.R.I. Istituto per la Ricostruzione Industriale(意)工业复兴公司(伊利公司)
+IRO International Refugee Organization (Organizzazione Internazionale dei Profughi) 国际难民组织
+I.S. Internazionale Socialista 社会党国际
+I.S.E.F. Istituto Superiore di Educazione Fisica 最高体育学院
+I.S.M.E.O. Istituto per il Medio ed Estremo Oriente(意)中东和远东学院(东方学院)
+I.S.N.A. Istituto di Studi Nucleari per l'Agricoltura 农用核研究学院
+I.S.P.I. Istituto per gli Studi di Politica Internazionale 国际政治研究学院
+I.S.S. Istituto Sperimentale della Strada 道路实验研究院
+ist, istituto 学院;学会;研究院
+I.SV.E.I.MER. Istituto per lo Sviluppo Economico della Italia Meridionale 意大利南方经济开发研究院
+it. italiano 意大利的
+1.T.C. Compagnia Italiana dei Cavi Telegrafici Sottomarini 意大利海底电报公司
+I.T.O., ITO International Trade Organization (Organizzazione Internazionale del Commercio) (联合国)国际贸易组织
+I.T.U. International Telecommunication Union (Unione Internazionale per le Telecomunicazioni) (联合国)国际电信联盟
+I.U.S., JUS International Union of Students (Unione degli Studenti)国际学生联合会
+I.V.A. Imposta sul Valore Aggiunto 增值税
+
+K 
+
+k potassio【化】钾
+Ke chilociclo【无】千周,千赫(兹)
+Kc/S Kilocycles par seconde (Chilocicli al Secondo) 千周/秒
+kg chilogrammo 公斤,千克
+KGB Komitet Gossudarstvennoi Bezopastnosti (Comitato della Sicurezza statale) (苏联)国家安全委员会(克格勃)
+Kg-cal Kilogram-calorie 千(克)卡,公斤卡
+Kg-m Kilogram-metre (Chilogrammetro)公斤一米,千克
+kl kilolitre (chilolitro) 千升
+Km chilometro公里,千米
+Km/h chilometri all'ora 公里/小时
+kmq chilometro quadrato 平方公里
+km/sec chilometri al secondo 公里/秒
+k.o. knock-out (Fuori Combattimento) (拳击)击倒
+Kr cripton 【化】氪
+KV, kv chilovolt千伏(特)
+KW, kw chilowatt 千瓦(特)
+KWH, kwh kilowatt hour千瓦(特)小时
+
+L
+
+l litro升
+1. lunedì 星期一
+La lantanio 【化】镧
+L.A. Lega Araba 阿拉伯联盟
+lab. laboratorio 实验室,实验所
+LAI Linee Aeree Italiane 意大利航空公司
+lat. latino 拉丁文,拉丁的/ latitudine 纬度
+L.C.Y. League of Communists of Yugoslavia 南斯拉夫共产主义者联盟
+legn. legno 木,木材 / legname 木材,木料
+L.E.N.A., LENA Laboratorio Energia Nucleare Applicata(意)应用核能实验所
+lett. lettera 字母;信件/letterale 字面的/ letterario 文学的 / letteratura 文学
+LEV Lunar Excursion Vehicle 月球探测飞船,登月舱
+L.F. Low Frequency 低频
+Li litio【化】锂
+libr. libraio 书商 / libreria 书店
+L.I.D.U. Lega Internazionale dei Diritti dell'Uomo 国际人权联盟
+L.I.H.G. Ligue Internationale de Hockey sur Glace 国际冰球联合会
+L.it. Lire italiane 意大利里拉(货币单位)
+LL.PP. Lavori Pubblici 公共工程,市政工程
+1.m. livello del mare 海拔
+L.N. Luna Nuova 新月会
+L.N.I. Lega Navale Italiana 意大利船舶联盟
+locuz. locuzione (语法)短语,词组
+log logaritmo【数】对数
+long. longitudine 经度
+Lu lutezio【化】镥
+
+〈899〉
+
+lu., lug. luglio 七月
+lun, lunedi 星期一
+
+M
+
+m metro 米,公尺
+m. maschile (语法)阳性的 / mese 月 / morto 死的; 死人
+Μ.ΑΑ.ΕΕ. Ministero degli Affari Esteri 外交部
+M.A.F. Ministero dell'Agricoltura e Foreste 农林部
+mag. maggio 五月
+magg. maggiore 较大的,更大的
+Mar. Maresciallo 元帅
+mar. martedi 星期二 / marzo 三月 / marina 海军 / ma-rittimo 海上的
+mar. merc. marina mercantile (一个国家的全部)商船
+mar.mil. marina militare (一个国家的全部)军舰,海军
+mart. martedì 星期二
+M.A.S. Motoscafo Antisommergibile 反潜艇摩托艇
+mat. matematica 数学 / matematico 数学的; 数学家
+M.B. Ministero del Bilancio 预算部
+mc metro cubo 立方米
+M.C.D. massimo comun divisore 【数】最大公约数
+m.c.d. Minimo Comune Denominatore 【数】最小公分母
+M.C.E. Ministero del Commercio con l'Estero 外贸部,对外贸易部
+m.c.m. minimo comune multiplo 【数】最小公倍数
+M.D. Ministero della Difesa 国防部
+M.D.A. Ministero della Difesa Aeronautica 空军部
+M.D.E. Ministero della Difesa Esercito 陆军部
+M.D.M. Ministero della Difesa Marina 海军部
+M.E. Medio Evo 中世纪
+M.E.C. Mercato Europeo Comune 欧洲共同市场
+mecc. meccanica 机械学 / meccanico 机械的, 机动的; 机械工
+med. medicina 医学 / medico 医学的; 医生 / mediocre 中等的, 平庸的 / medaglia 奖章, 勋章 / medio 中等的, 一般的; 平均的
+mem. mémorandum 备忘录
+mens. mensile 每月的, 每月一次的; 月刊
+mer., merc. mercoledì 星期三
+metall. metallo 金属 / metallurgia 冶金学, 冶金术 / metallurgico 冶金的; 冶金工人
+meteor. meteorologia 气象学 / meteorologo 气象学家 / meteorologico 气象学的
+metr. metrica 诗韵学, 格律学; 韵律, 格律 / metrico 韵律的
+M.F.E. Movimento Federalista Europeo 欧洲 (拥护) 联邦制运动
+Mg magnesio 【化】镁
+mg milligrammo 毫克
+M.G.G. Ministero di Grazia e Giustizia 司法部
+M.I. Ministero degli Interni 内政部, 内务部
+mi. miglio 英里, 哩
+M.I.C. Ministero dell'Industria e Commercio 工业商业部
+mil. militare 军事的; 军人
+Min. Ministro 部长 / Ministero (政府的) 部; 内阁
+min. minimo 最小的 / minuto 分钟
+miner. mineralogia 矿物学 / mineralogista 矿物学家 / miniera 矿, 矿山 / minerale 矿物的, 矿质的 / minerario 矿物的, 矿业的
+mit. mitologia 神话 / mitologico 神话的
+Μ.Ι.Τ.Α.Μ. Mercato Internazionale del Tessile e dell'Ab-bigliamento 国际纺织与服装市场
+mitt. mittente 寄信人
+ml millilitro 毫升
+M.LL.PP. Ministero dei Lavori Pubblici 公共工程部
+M.L.P.S. Ministero del Lavoro e della Previdenza Sociale 劳动和社会救济部
+M.M. Marina Militare (一个国家的全部) 军舰; 海军
+mm millimetro 毫米
+mmc millimetro cubo 立方毫米
+M.M.M. Ministero della Marina Mercantile 海运部
+mmq millimetro quadrato 平方毫米
+MMABM Mobile Medium-Range Ballistic Missile 机动中程弹道导弹
+Mn Manganese 【化】锰
+Mo molibdeno 【化】钼
+M.O. Medio Oriente 中东
+Montedison Montecatini Edison Società per Azioni (意) 蒙特迪生公司 (蒙塔卡蒂尼 - 爱迪生股分公司)
+mot. motore 发动机, 马达
+mot. elettr. motore elettrico 电动机
+M.P.I. Ministero della Pubblica Istruzione 教育部
+mq metro quadrato 平方米
+MRBM Medium-range Ballistic Missile 中程弹道导弹
+MRV Multiple Reentry Vehicle 多弹头再入飞行器
+Ms., ms. manoscritto 手稿, 手抄本
+M.S. Ministero della Sanità 卫生部 / Mutuo Soccorso 互助 (会), 互济 (会)
+M.S.I. Movimento Sociale Italiano 意大利社会运动
+M.T. Ministero del Tesoro 国库部
+M.T.S. metro-tonnellata-secondo 米一吨一秒 (单位制)
+mus. musica 音乐 / musicale 音乐的
+M.V. Maria Vergine 圣母玛利亚
+
+N 
+
+n. nato 出生的 / neutro 中性的, 中立的 / nome 名字; 名词 / nostro 【商】我方的
+N nitrogen (azoto) 【化】氮 / Numero 数, 数字, 数目; 号码
+N Nord 北, 北方
+Na sodio 【化】钠
+N.A.S.A. National Acronautics and Space Administration (Ente Nazionale Aeronautico e Spaziale) (美国) 国家航空和航天局
+Ν.Α.Τ.Ο., ΝΑTO North Atlantic Treaty Organization (Organizzazione del Trattato Nord-Atlantico) 北大西洋公约组织
+naut. nautico 航海的, 海上的
+nav. navale 海军的; 船舶的
+naz. nazionale 民族的, 国家的; 国民的; 全民性的
+N.B. Nota Bene 注意
+Nd neodimio 【化】钕
+N.d.A. Nota dell'Autore 作者注
+N.d.E. Nota dell'Editore 出版者注
+N.d.R. Nota della Redazione 编者注
+N.d.T. Nota del Traduttore 译者注
+N.E. Nord Est 东北
+Ne neon 【化】氖
+neg. negativo 否定的; 阴性的; 负的 / negazione 否定
+neol. neologismo 新词, 新词义, 新用法
+Ni nichel 【化】镍
+N.O. Nord Ovest 西北
+nom. nominativo (语法) 主格的
+nov. novembre 十一月
+Np nettunio 【化】镎
+N.P.A. Nave Portaerei 航空母舰
+N.T. Nuovo Testamento (基督教《圣经》的《新约全书》
+N.U. Nazioni Unite 联合国 / Nettezza Urbana 城市清洁管理局
+num. numero 数, 数目, 数字, 号码 / numerale 数的, 数目的, 数字的
+
+O 
+
+O ossigeno 【化】氧
+○ Ovest 西, 西方
+OAPEC Organization of the Arab Petroleum Exporting Countries (Organizzazione dei Paesi Arabi Esportatóri del Petrolio) 阿拉伯石油输出国组织
+
+〈900〉
+
+O.C.S.E. Organizzazione di Cooperazione e Sviluppo Economico(欧洲)经济合作与发展组织
+O.C.T.I. Office Central des Transports Internationaux par Chemins de Fer (Ufficio Centrale dei Trasporti Internazionali tramite Ferrovia)国际铁路运输中央局
+O.d.G. Ordine del Giorno 议事日程
+O.E.C.E. Organizzazione Europea per la Cooperazione Economica 欧洲经济合作组织
+off. officina工厂,车间;作坊
+ogg. oggetto 事物,物体;对象,日标
+O.K., OK all correct; all right (Tutto bene; benissimo) 好,对,可以;认可,签字认可
+OMM Organizzazione Meteorologica Mondiale (联合国) 世界气象组织
+O.M.R. Ordine al Merito della Repubblica 共和国勋章
+O.M.S. Organizzazione Mondiale della Sanità (联合国) 世界卫生组织
+On., on. Onorevole 尊敬的(意大利对众议员的尊称)
+onom. onomastico 命名日
+O.N.U., ONU Organizzazione delle Nazioni Unite 联合国组织
+op. opera 工作;作品/ operaio 工人
+O.P.E.C., OPEC Organization of Petroleum Exporting Countries (Organizzazione dei Paesi Esportatori del Petrolio)石油输出国组织
+or. orario 时间的;时刻表
+orch. orchestra 乐队
+Os osmio 【化】锇
+OSA Organizzazione degli Stati Americani 美洲国家组织
+O.T.A. Organizzazione Mondiale del Turismo e dell'Automobile 世界旅游与汽车运动组织
+ott. ottobre 十月
+O.U.A., QUA Organizzazione per l'Unità Africana 非洲统一组织
+
+P
+
+fosfaro【化】磷/posteggio 停车场
+P. Papa【宗】教皇 / Padre【宗】神甫
+p. piazza 广场 / pagina 页
+Pan-Am Pan-American (World) Airways(美国)泛美(世界)航空公司
+par. paragrafo段,节
+part. participio (语法)分词
+partic. particella (语法)小品词;虚词
+patol. patologia 病理学 / patologo 病理学家/ patologico 病理学的
+PAWA Pan-American World Airways (美国)泛美世界航空公司
+Pb piombo 【化】铅
+p.c. per congedo (表示)告别(名片用语)/ per congratulazioni(表示)祝贺(名片用语) / per condoglianze(表示)哀悼(名片用语)
+PCC Partito Comunista Cinese 中国共产党
+PCI Partito Comunista Italiano 意大利共产党
+PCUS Partito Comunista dell'Unione Sovietica 苏联共产党
+Pd palladio【化】钯
+PDCS Partito Democratico Cristiano Sammarinese 圣马力诺天主教民主党
+P.D.I.U.M., PDIUM Partito Democratico Italiano di Unità Monarchica 意大利保皇统一民主党
+P.E. Parlamento Europeo 欧洲议会
+p.e., p.es. per esempio 例如,譬如
+pers. persona (语法)人称
+p.est. per estensione 从引伸义讲
+p.f. per favore劳驾...,请...
+pl. piazzale 场地,空地/plurale (语法)复数
+PLI Partito Liberale Italiano 意大利自由党
+P.M. Polizia Militare 宪兵(队)
+p.m. pomeridiano下午的,午后的
+Po polonio 【化】针
+P.O. Posta Ordinaria 平寄
+P.O.B., P.O.Box Post Office Box (Casella Postale)邮政信箱
+poet. poetico诗的;诗人的
+Pol. polizia 警察
+pol. politica 政治/ politico 政治的;政治家
+POLFER Polizia Ferroviaria 铁路警察
+POLSTRADA Polizia Stradale 交通警察
+pont. pontificio 教皇的
+pop. popolazione 居民 / popolare 人民的,民众的
+poss. possessivo (语法)主有的,物主的
+PP. Padri【宗】神甫(复数)
+ppp più che piano (pianissimo) 【音】极弱地
+PP.TT. Poste e Telecomunicazioni 邮电
+p.r. per ringraziamento (表示)感谢(名片用语)
+pref. prefisso (语法)前级
+prefaz. prefazione 序言
+prep. preposizione (语法)前置词
+pres. preside 中学校长/presidente 主席;总统;议长;主任;会长;行长/ presidenza 主席职务,总统职务 / presente 现在的;出席的;(语法)现在时
+P.R.I. Partito Repubblicano Italiano 意大利共和党/ Partito Radicale Italiano 意大利激进党
+Proc. Gen. Procuratore Generale 总检察长
+prof. professore 教授;教员
+prof.ssa professoressa 女教授;女教员
+pron. pronome (语法)代词
+prop. proposizione (语法)句,分句
+prov. provincia 省 / provinciale省的;外省的/proverbio 谚语
+provv. provvisorio临时的,暂时的/provveditore (某部门的)负责人,主管人,监督者 / provveditorato (负责集项工作的)机关,部门
+P.S. Pubblica Sicurezza 公安 / poscritto 信后附言,附话,又及
+P.S.D.I. Partito Socialista Democratico Italiano 意大利社会民主党
+PSDIS Partito Socialista Democratico Indipendente Sammarinese 圣马力诺独立社会民主党
+P.S.I. Partito Socialista Italiano 意大利社会党
+psicol. psicologia 心理学 / psicologo 心理学家/psicologico 心理学的
+P.S.I.U.P. Partito Socialista Italiano di Unità Proletaria 意大利无产阶级团结社会党
+P.S.S. Partito Socialista San.marinese 圣马力诺社会党
+Pt platino 【化】白金,铂
+P.T. Poste e Telegrafi邮电所 / Polizia del Traffico 交通警察
+P.T.P. Posto Telefonico Pubblico 公用电话(处)
+P.T.T. Poste Telegrafi e Telefoni 邮政电报电话局
+Pu plutonio【化】钚
+pubbl. pubblicità 广告
+P.V. piccola velocità 【铁】慢件(货物)
+p.v. prossimo venturo (表示时间)下一个的,下次的
+P.za piazza 广场
+
+Q
+
+q quintale 公担(一百公斤)
+qico. qualcosa 某事(物)
+qlcu. qualcuno 某人
+q.e.d. quod erat demonstrandum【数】证明完毕
+Q.G. Quartier Generale 司令部,总部
+
+R
+
+r raggio 【数】半径
+Ra radio 【化】镭
+R.A.L., R.A.I.-T.V. Radiotelevisione Italiana (Radio
+
+〈901〉
+
+Audizioni Italiane e Televisione) 意大利广播电(视)台/Registro Aeronautico Italiano 意大利航空登记局
+Re radice cubica 立方根
+rec. reciproco相互的,互相的
+reg. regione 地区,区 / regionale 地区的 / regolare 规则的,有规律的;经常的,定期的
+rel. relativo (语法)关系的,相关的
+relig. religione 宗教 / religioso 宗教的
+rep. reparto(工厂的)车间,(医院的)科;部队
+Rep. Repubblica 共和国,共和政体
+Rhrodio 【化】铑
+R.I. Repubblica Italiana 意大利共和国
+ric. ricevuta 收据,收条
+rift. riflessivo (语法)自反的
+R.L.N.A. Registro Italiano Navale ed Aeronautico 意大利船舶和飞机登记局
+ripr. viet. riproduzione vietata 禁止翻印
+R.M. Ricchezza Mobile 动产
+R.N. Riserva Navale 海上后备队
+R.P. Riservata personale 个人保留的/ Reverendo Padre 尊敬的神甫
+RPC Repubblica Popolare Cinese 中华人民共和国
+Rq radice quadrata 【数】平方根
+r.rad. rete radar 雷达网
+RSM Repubblica di San Marino 圣马力诺共和国(汽车牌照)
+R.S.V.P. répondez s'il vous plait (rispondere per favore) 请赐复,恭候回复(请帖等用语)
+Ru rutenio【化】钉
+rur. rurale 农村的
+
+S 
+
+S sud南,南方/ zolfo 【化】硫
+S. Santo, San 【宗】圣,圣人
+secondo 秒
+s. sabato 星期六 / sostantivo (语法)名词
+S.A. Società Anonima 股份有限公司 / Sua Altezza 殿下
+sab. sabato 星期六
+S.A.F. Servizi Accessori Ferroviari 铁路零件服务公司
+S.A.I. Società Aeronautica Italiana 意大利航空学会 / Società Astronomica Italiana 意大利天文学会
+S.A.L.T., SALT Strategic Arms Limitation Talks (美苏)限制战略武器会谈
+S.A.S. Scandinavian Airlines System (Lince Aeree Scan-dinave)斯堪的纳维亚航空公司
+Sc scandio【化】钪
+sched. schedario 卡片箱
+scient. scientifico 科学的
+scol. scolastico 学校的
+scult. scultura 雕刻 / scultore 雕刻家
+s.d. senza data 无日期,日期不详
+s.d.l. senza data o luogo 地点或日期不详
+S.E. Sud-Est 东南 / Sua Eccellenza 阁下
+SEATO Southeast Asia Treaty Organization (Organizza-zione del Trattato dell'Asia Sud Orientale)东南亚条约组织
+sec secante 【数】正割/secondo 秒
+Sec. secolo 世纪
+segr. segretario 秘书
+segr.to segretariato 秘书处;秘书职务
+Sen. Senatore 参议员
+S.E.O. salvo errori e omissioni 【商】错漏不在此限,有错当查(单据用语)
+SE. PR.AL. Sezione Provinciale Alimentazione 省粮食局
+serg. sergente 下士
+serg.magg. sergente maggiore 中士
+S.E.T. Società Esercizi Telefonici 电话公司
+sett. settembre 九月
+s.f. sostantivo femminile (语法)阴性名词
+SHAPE Supreme Headquarters of Allied Powers in Europe (NATO)(北大西洋公约组织)欧洲盟军最高司令部,
+Si silicio【化】硅
+S.I.A.E. Società Italiana Autori e Editori 意大利作者和出版者协会
+S.I.D. Servizio Informazioni della Difesa 国防情报处
+S.I.E. Servizio Informazione Esercito 陆军情报处
+S.I.F. Società Internazionale di Finanziamento (International Finance Corporation) 国际金融公司
+Sig. Signore 先生
+Sig.ra Signora 夫人,女士
+Sigg. Signori 先生们
+Sig.na Signorina 小姐
+S.I.M. Servizio Informazioni Militari 军事情报处
+sim. simile 相似的/similmente 相似地
+sing. singolare (语法)单数的 
+S.I.P. Società Italiana per l'Esercizio Telefonico 意大利电话公司
+S.I.P.S. Società Italiana per il Progresso delle Scienze意大利科学促进会
+S.I.T.A. Società Italiana Trasporti Automobilistici 意大利汽车运输公司
+s.l.m. sul livello del mare 在海拔
+S.M. Sua Maestà 陛下
+S.M.D. Sistema Metrico Decimale 十进位制,十进法。
+S.M.G. Stato Maggiore Generale 总参谋部
+S.M.I. Sua Maestà Imperiale 皇帝陛下
+Sn stagno 【化】锡
+S.N.A.M. Società Nazionale Amministrazione Metano 全国天然气管理公司
+S.N.D.A. Società Nazionale Dante Alighieri 全国但丁协会
+S.O. Sus-Ovest 西南
+Soc. Anon. Società Anonima 股份有限公司
+sogg. soggetto (语法)主语
+somm. sommario 目录,摘要,概要
+S.O.S. Salvate le Nostre Anime (国际通用的)船舶呼救信号
+sost. sostantivo(语法)名词
+S.P. Santo Padre 教皇陛下
+S.P.A. Società Pesca Atlantica 大西洋捕鱼公司 / Società Protettrice degli Animali 动物保护协会/ Società per Azioni 股份公司
+spreg. spregiativo 贬意的
+S.P.M. sue proprie mani (信件)亲收
+Sr stronzio 【化】锶
+SRAM Short-range Attack Missile 近程攻击导弹
+SRBM Short-range Ballistic Missile 近程弹道导弹
+S.R.C. Santa Romana Chiesa 罗马教廷
+S.R.I. Sacro Romano Impero 神圣罗马帝国
+S.r.l. Società a responsabilità limitata 有限公司
+st. storia 历史 / storico 历史的
+stat. statistica统计学;统计/statistico 统计学的;统计的/statale 国家的
+steno. stenografa 速记员
+stenodattilo dattilografa stenografa 速记员打字。
+str. strada 道路,公路
+S.U.C.A.I. Sezione Universitaria del Club Alpino Italiano 意大利登山俱乐部大学部
+succ. successori 继承人,继承者,接班人/ succursale 分店,分行,分公司
+suff. suffisso 后缀
+SUNFED Special United Nations Fund for Economic Development 联合国经济发展特别基金会
+sup. superlativo (语法)最高级;最高级的
+S.V. Signoria Vostra 先生,阁下
+S.W. Sud Ovest 西南
+SWISSAIR, Swissair Swiss Air Transport Company 瑞士航空公司
+
+T 
+
+T tutti 【音】合奏,齐唱
+
+〈902〉
+
+t tonnellata 吨
+Ta tantolio【化】钽
+TAA Technical Assistance Administration (Amministrazione dell'Aiuto Tecnico) (联合国)技术援助局
+tab. tabella 图表
+TAB Technical Asistance Board (联合国)技术援助委员会
+TAC Technical Assistance Committee (联合国经济及社会理事会)技术援助委员会
+tang tangente【数】正切;切线
+TAROM Transporturile Aeriene Române 罗马尼亚航空运输公司
+Tb terbio 【化】钺
+T.B., t.b. tubercolosi 结核病,肺结核
+TC Trusteeship Council (Consiglio per l'Amministrazione Fiduciaria)(联合国)托管理事会
+T.C., T.Col. Tenente Colonnello 中校
+T.C.C. Transport and Communications Commission (联合国)运输和和交通委员会
+T.C.I. Touring Club Italiano 意大利旅游俱乐部
+T.E. Trazione Elettrica 【铁】电力牵引
+teatr. teatrale 戏剧的
+tecn. tecnica 技术 / tecnico 技术的/ tecnologia 工艺
+T.E.J.A. Tutmonda Esperantista Jurnalista Asocio 国际世界语记者协会
+T.E.J.O. Tutmonda Esperantista Junulara Organizo 国际世界语青年组织
+tel. telefono电话,电话机
+telev. televisione 电视 / televisore 电视机
+telex Teleprinter Exchange (Scambio a mezzo di tele-scrivente)电传,电报用户直通电路,用户电报
+temp. temperatura温度;【医】体温
+Ten. Tenente 中尉
+tg tangente 【数】正切;切线
+Th torio 【化】钍
+Ti titanio 【化】钛
+tip. tipografia 印刷术,印刷厂/ tipografo印刷商;印刷工人
+Tl tallio 【化】铊
+TNT Trinitrotoluene 【化】三硝基甲苯,梯恩梯炸药
+TNW Tactical Nuclear Weapon 战术核武器
+tom. tomo册,卷
+Ton tonnellata吨
+top. topografia 地形学/ topografo 地形学者,地形测量员
+trad. traduttore 翻译者,译员 / traduzione 翻译,译文
+trans. transatlantico 横渡大西洋的;横渡大西洋的游船;远洋游船 / transitivo (语法)及物的 / transito【铁】过境
+T.R.I. Television Reporters International 国际电视新闻记者协会
+trib. tribunale 法庭,法院
+trim. trimestre 季度 / trimestrale 季度的
+T.S. Tribunale Supremo 最高法庭,最高法院 / Tribunale Speciale 特别法庭
+T.S.F. Telegrafo Senza Fili 无线电报
+T/T telegraphic transfer 电汇
+Tu tullio 【化】铥
+T.V., TV Televisione 电视
+TWA Trans World Air lines (美国)环球航空公司
+
+U
+
+U uranio 【化】铀
+UAI Unione Astronomica Internazionale 国际天文联合会
+U.C.C. Universal Copyright Convention 世界版权协定
+U.C.D.G. Unione Cristiana delle Giovani 天主教女青年联合会 / Unione Cristiana dei Giovani 天主教青年联合会
+U.C.I. Unione Ciclistica Internazionale 国际自行车运动员联合会
+U.D.E. Unione della Difesa Europea 欧洲防务联盟/ Unione Doganale Europea 欧洲关税!
+U.D.I. Unione Donne Italiane 意大利妇女联盟
+UEA Universale Esperanto Asosio 国际世界语协会
+U.E.E. Unione Economica Europea 欧洲经济联盟
+U.E.O. Unione dell'Europa Occidentale 西欧联盟
+U.E.P. Union Européenne de Paiements (Unione Europea dei Pagamenti) 欧洲支付同盟
+U.E.R. Unione Europea di Radiodiffusione 欧洲广广播联盟
+U.F.I. Unione Fiere Internazionali 国际博览会联合会
+U.F.N. Unione Famiglie Numerose 多子女家庭联合会
+UFO Unidentified Flying Object 未查明真相的空中飞行物,飞碟
+U.G.I. Unione Geografica Internazionale 国际地理协会
+U.I. (U.I.P.) Union Interparlementaire (Unione Inter-parlamentare)各国议会联盟
+U.I.C. Unione Italiana Ciechi 意大利盲人联合会
+U.I.C.C. Unione Internazionale Contro il Cancro 国际防癌联合会
+U.I.C.T. Unione Internazionale Contro la Tubercolosi 国际防痨联合会
+U.I.L. Unione Italiana del Lavoro 意大利劳工联盟/ Ufficio Internazionale del Lavoro 国际劳工局
+UIT Unione Internazionale delle Telecomunicazioni (联合国)国际电信联盟
+U.I.T.S. Unione Italiana Tiro a Segno 意大利射击联盟
+U.M. Unione Militare 军事同盟
+U.M.I. Unione Matematica Italiana 意大利数学协会
+U.N.A.R.C.O. United Nations Narcotics Commission 联合国麻醉品委员会
+UNATOM Organizzazione Unità Atomica 原子统一组织
+UNCA United Nations Correspondents Associated 联合国记者协会
+U.N.C.C. United Nations Cartographic Commission 联合国制图委员会
+UNCDF United Nations Capital Development Fund 联合国资本开发基金会
+UNCTAD United Nations Conference on Trade and Development 联合国贸易和发展会议
+UNDAT United Nations Development Advisory Teams 联合国开发咨询小组
+UNDC United Nations Disarmament Commission 联合国裁军委员会
+UNDOF United Nations Disengagement Observation Force 联合国脱离接触观察部队
+UNDP United Nations Development Programme 联合国发展方案,联合国开发计划署
+UNDRO United Nations Disaster Relief Office 联合国教灾处
+U.N.E.C.A. United Nations Economic Commission for Asia 联合国亚洲经济委员会
+UNEPTA United Nations Expanded Programme of Technical Assistance 联合国技术援助扩大方案
+UNESCO United Nations Educational, Scientific and Cultural Organization (Organizzazione delle Nazioni Unite per l'Educazione, la Scienza e la Cultura) 联合国教育、科学及文化组织,联合国教科文组织
+U.N.E.T.A.S., UNETAS United Nations Emergency Technical Aid Service 联合国紧急技术援助署
+UNFAO United Nations Food and Agriculture Organization 联合国粮食及农业组织
+U.N.F.B. United Nations Film Board 联合国电影局
+UNFL United Nations Filmstrip Library 联合国影片片条资料馆
+UNFPA United Nations Fund for Population Activities 联合国人口活动基金会
+UNHCR United Nations High Commissioner for Refugees 联合国难民事务高级专员(办事处)
+UNI Unificazione Italiana 意大利标准局
+UNIC United Nations Information Centre 联合国新闻中心
+U.N.I.C.E. Unione delle Industrie della Comunità Europea欧洲共同体工业联合会
+UNICEF United Nations Children's Fund 联合国儿童基金会
+UNIDO United Nations Industrial Development Orga-
+
+〈903〉
+
+nization 联合国工业发展组织
+UNITAR United Nations Institute for Training and Research 联合国训练研究所
+U.N.L.A. Unione Nazionale per la Lotta contro l'Analfa-beusmo 全国打联盟
+UNOAEC United Nations Organization Atomic Energy Commission 联合国组织原子能委员会
+U.N.P.O.C., UNPOC United Nations Peace Observation Commission 联合国和平观察委员会
+U.N.R.E.F., UNREF United Nations Refugee Emergency Fund 联合国难民紧急基金
+UNRWA United Nations Relief and Works Agency 联合国难民救济及工程局
+UNTAA United Nations Technical Assistance Administration 联合国技术援助局
+UNTC United Nations Trusteeship Council 联合国托管理事会
+U.N.U.C.I. Unione Nazionale Ufficiali in Congedo d'Italia 意大利全国退伍军官联盟
+U.P.A. Unione Panamericana 泛美联盟
+UPI United Press International (美国)合众国际社
+U.P.S.E.A., UPSEA Ufficio Provinciale di Statistica dell'Economia e dell'Agricoltura 省经济和农业统计局
+UPU Universal Postal Union (Unione Postale Universale) 万国邮政联盟
+U.R.I. Università Radiofonica Italiana 意大利广播大学
+U.R.S.S., URSS Unione delle Repubbliche Socialiste Sovietiche 苏维溪社会主义共和国联盟,苏联
+U.S. Ufficio Stampa 新闻局 / Uscita di Sicurezza 太平门
+USA United States of America (Stati Uniti d'America) 美利坚合众国 / United States Army 美国陆军,美军
+U.T.E.T. Unione Tipografico-Editrice Torinese 都灵印刷出版联盟
+
+V
+
+V. Via 路、街
+v. venerdì 星期五/verbo(语法)动词
+v/ Vostro 您的,你们的
+vb. verbo (语法)动词
+V.Ecc. Vostra Eccellenza 阁下
+ver. versamento 【商】付款,支付
+Vesc. Vescovo 【宗】主教
+V.F. (V.d.F.) Vigili del Fuoco 消防队员
+vic. vicolo 胡同,小巷
+vill. villaggio 村
+v.le viale 大街,林荫大道
+VOA Voice of America 美国之音(电台)
+vol. volume 卷,册
+v.r. vedi retro 见后页
+V.S. vedi sopra 见上,参见上文
+V.T. Vecchio Testamento (基督教《圣经》的)《旧约全书》
+V.U. Vigile Urbano 城市交通警察
+
+W
+
+W Evviva! 万岁!
+W wolframio 【化】钨
+W.C. Water Closet (Gabinetto) 厕所,盥洗室
+WCC World Council of Churches 世界基督教协进会
+W.C.W.B. World Council for the Welfare of the Blind 世界盲人福利会
+W.F.D., WFD World Federation of the Deaf 世界聋人联合会
+W.F.P., WFP World Food Programme(联合国)世界粮食方案,(联合国)世界粮食计划组织
+W.F.S.W., WFSW World Federation of Scientific Workers (Federazione Mondiale dei Lavoratori Scientifici) 世界科学工作者协会
+W.F.U.N.A., WFUNA World Federation of United Nations Associations 联合国协会世界联合会
+WIDF Women's International Democratic Federation (Federazione Internazionale delle Donne Democratiche) 国际民主妇女联合会
+WPC World Peace Council (Consiglio Mondiale della Pace) 世界和平理事会
+W.S.C.F., WSCF World's Student Christian Federation (Federazione Mondiale degli Studenti Cristiani) 世界基督教学生同盟
+W.T.O. Warsaw Treaty Organization 华沙条约组织
+
+X
+
+x 某某;【数】第一未知数
+Xe xeno 【化】氙
+Xp espress paid 加快费已付
+XPT espress paid by telegraph 加快费已电汇付讫
+
+Y
+
+Y ittrio 【化】钇
+y 【数】第二未知数
+Yb itterbio 【化】镱
+Y.C.I. Yacht Club Italia 意大利快艇俱乐部
+
+Z
+
+z 【数】第三未知数
+Z.M. Zona Militare 军事区
+Zn zinco 【化】锌
+Zr zirconio 【化】锆
+
+〈904〉
+
+附录二
+
+ELENCO DEI NOMI DELLE REGIONI, DEI CAPOLUOGHI E DEI CENTRI PRINCIPALI D'ITALIA
+意大利区、首府和主要城市名称表
+
+1) ABRUZZO 阿布鲁佐
+Capoluogo: L'Aquila 拉奎拉
+Chieti 基埃蒂
+Pescara 佩斯卡拉
+Teramo 特拉莫
+2) BASILICATA 巴西利卡塔
+Capoluogo: Potenza 波坦察
+Matera 马特拉
+3) CALABRIA 卡拉布里亚
+Capoluogo: Catanzaro 卡坦扎罗
+Cosenza 科森察
+Reggio Calabria 勒佐·卡拉布里亚
+4) CAMPANIA 坎帕尼亚
+Capoluogo: Napoli 那波利(那不勒斯)
+Avellino 阿韦利诺
+Benevento 贝内文托
+Caserta 卡塞塔
+Salerno 萨勒诺
+5) EMILIA-ROMAGNA 艾米利亚一罗马涅
+Capoluogo: Bologna 波洛尼亚(波伦亚)
+Ferrara 费拉拉
+Forlì 弗利
+Modena 莫德纳
+Parma 帕尔马
+Piacenza 皮亚琴察
+Ravenna 拉文纳
+Reggio Emilia 勒佐・艾米利亚
+6) FRIULI-VENEZIA GIULIA 弗留利————威尼斯·朱利亚
+Capoluogo: Trieste 的里雅斯特
+Gorizia 戈里齐亚
+Pordenono 波尔德诺内
+Udine 乌迪内
+7) LAZIO 拉齐奥
+Capoluogo: Roma 罗马
+Frosinone 弗罗齐诺内
+Latina 拉蒂纳
+Rieti 里埃蒂
+Viterbo 维泰尔博
+8) LIGURIA 利古里亚
+Capoluogo: Genova 热那亚
+Imperia 因佩里亚
+La Spezia 拉斯佩齐亚
+Savona 萨沃纳
+9) LOMBARDIA 伦巴第
+Capoluogo: Milano 米兰
+Bergamo 贝尔加览
+Brescia 布雷西亚
+Cremona 克雷莫纳
+Como 科莫
+Mantova 曼图瓦
+Pavia 帕维亚
+Sondrio 桑德里奧
+Varese 瓦雷泽
+10) MARCHE 马尔凯
+Capoluogo: Ancona 安科纳
+Ascoli Piceno 阿斯科里・皮切诺
+Macerata 马切拉塔
+Pesaro 佩扎罗
+Urbino 乌尔比诺
+11) MOLISE 莫利泽
+Capoluogo: Campobasso 坎波巴索
+Isernia 伊泽尼亚
+12) PIEMONTE 皮埃蒙特
+Capoluogo: Torino 都灵
+Alessandria亚历山德里亚
+Asti 阿斯蒂
+Cuneo 库内奥
+Novara 诺瓦拉
+Vercelli 维切利
+13) PUGLIA 普利亚
+Capoluogo: Bari 巴里
+Brindisi 布林的西
+Foggia 福贾
+Lecce 莱切
+Taranto 塔兰托
+14) SARDEGNA 撒丁
+Capoluogo: Cagliari 卡利亚里
+Nuoro 努奥罗
+Oristano 奥利斯塔诺
+Sassari 萨萨里
+15) SICILIA 西西里
+capoluogo: Palermo 巴勒莫
+Agrigento 阿格里琴托
+Caltanissetta 卡尔塔尼塞塔
+Catania 卡塔尼亚
+Enna 恩纳
+Messina 西众
+Ragusa 拉古萨
+Siracusa 锡拉库札
+Trapani 特拉巴尼
+16) TOSCANA 托斯卡纳
+Capoluogo: Firenze 佛罗伦萨
+Arezzo 阿雷佐
+Carrara 卡拉拉
+Grosseto 格罗寒托
+Livorno 里窝那
+Lucca 卢卡
+Massa 马萨
+Pisa 比萨
+Pistoia 皮斯托亚
+Siena 锡耶那
+17) TRENTINO-ALTO ADIGE 特兰提诺-阿尔托·阿迪太
+Capoluogo: Trento 特兰托
+Bolzano 波尔察诺
+18) UMBRIA 翁布里亚
+Capoluogo: Perugia 佩鲁贾
+Terni 特尔尼
+19) VALLE D'AOSTA 瓦莱·达奥斯塔
+Capoluogo: Aosta 奧斯塔
+20) VENETO 威尼托
+Capoluogo: Venezia 威尼斯
+Belluno را卢诺
+Padova 帕多瓦
+Rovigo 罗维戈
+Treviso 特雷维伦
+Verona 维罗纳
+Vicenza 维琴察
+
+〈905〉
+
+附录三
+
+ELENCO DEI NOMI PRINCIPALI MONTAGNE E CIME D'ITALIA
+意大利主要山脉和山峰名称表
+
+Adula 阿杜拉山(高3402米)
+Bernina 贝尔尼纳山(高4049米)
+Botte Donato 保特·道纳托山(高1928米)
+Cervino 切尔维诺山(高4478米)
+Cima dell'Argentera 阿尔金泰拉峰(高3297米)
+Corno Grande (Gran Sasso) 大科尔诺山(高2912米)
+Etna 埃特纳火山(高3340米)
+Gli Appennini 亚平宁山脉
+Gran Paradiso 大天堂山(高4061米)
+Grigne 格利涅山(高2410米)
+Jof di Montasio 约弗迪蒙塔焦山(高2753米)
+La Maiella 拉马耶拉山(高2795米)
+Le Alpi 阿尔卑斯山脉
+Marmolada 马莫拉达山(高3342米)
+Montalto (Aspromonte)蒙塔尔托山(高1955米)
+Monte Amiata 阿米亚塔峰(高1738米)
+Monte Bianco 勃朗峰(高4810米)
+Monte Cervialto 切尔维阿尔托峰(高1809米)
+Monte Cimone 其莫内峰(高2165米)
+Monte Coglians 科里昂斯峰(高2780米)
+Monte Maggiorasca 马焦拉斯卡峰(高1799米)
+Morte Miletto 米莱托蜂(高2050米)
+Monte NevosSO 奈沃佐峰(高1796米)
+Monte Pecoraro 佩科拉罗峰(高1423米)
+Monte Pisanino (Alpi Apuane) 皮扎尼诺峰(高1945米)
+Monte Pollino 波里诺峰(高2248米)
+Monte Rosa 玫瑰峰(高4634米)
+Monte Sirino 西利诺峰(高2005米)
+Monte Vettore 维托勒峰(高2476米)
+Monviso 维佐山(高3841米)
+Mottarone 莫塔罗内山(高1491米)
+Ortles 奥尔特莱斯山(高3902米)
+Palla Bianca 白球山(高3736米)
+Pasubio 帕朱比奥山(高2235米)
+Picco dei Tre Signori 三君子峰(高3499米)
+Pizzo Carbonara 卡博纳拉峰(高1979米)
+Pizzo della Presolana 普雷佐拉纳峰(高2521米)
+Pratomagno 普拉托马尼奥山(高1592米)
+Punta Marguareis 马瓜莱依斯峰(高2651米)
+Rocca Bussambra 布桑布拉峰(高1613米)
+Rocciamelone 罗恰梅洛内山(高3538米)
+Vesuvio 维苏威火山(高1277米)
+Vetta d'Italia 意大利峰(高2911米)
+
+〈906〉
+
+附录四
+
+ELENCO DEI NOMI DEI FIUMI E DEI LAGHI PRINCIPALI D'ITALIA
+意大利主要河流和湖泊名称表
+
+Adda 阿达河(长313公里)
+Adige 阿迪杰河(长410公里)
+Arno 阿尔诺河(长241公里)
+Aterno-Pescara 阿泰诺-佩斯卡拉河(长145公里)
+Basento 巴泽恩托河(长149公里)
+Bradano 布拉达诺河(长116公里)
+Brenta 布伦塔河(长160公里)
+Dora Baltea 道拉·巴尔泰阿河(长160公里)
+Flumendosa 弗鲁门道扎河(长127公里)
+Imera-Salso 伊梅拉-萨尔索河(长144公里)
+Isonzo 伊松佐河(长136公里)
+Liri-Garigliano 利里一加里利亚诺河(长158公里)
+Ofanto 奥方托河(长134公里)
+Oglio 奥里奥河(长280公里)
+Ombrone 翁布罗内河(长161公里)
+Piave 皮亚维河(长220公里)
+Po波河(长652公里)
+Reno 雷诺河(长211公里)
+Sangro 桑格罗河(长116公里)
+Simeto 西梅托河(长113公里)
+Tagliamento 塔里亚门托河(长170公里)
+Tanaro 塔那罗河(长276公里)
+Tevere 特书雷河(又译台伯河,长405公里)
+Ticino 提契诺河(长248公里)
+Tirso 提尔索河(长150公里)
+Volturno 沃尔上诺河(长175公里)
+Lago d'Albano 阿尔巴诺湖
+Lago di Bolsena 博尔塞纳湖
+Lago di Bracciano 布拉恰诺湖
+Lago di Como 科莫湖
+Lago di Garda 加尔达湖
+Lago d'Iseo 伊泽欧湖
+Lago di Lesina 莱济纳湖
+Lago di Lugano 卢加诺湖
+Lago d'Orta 奥尔塔湖
+Lago di Varano 瓦拉诺湖
+Lago di Vico 维科湖
+Lago Maggiore 马乔列湖
+Lago Trasimeno 特拉西梅诺湖
